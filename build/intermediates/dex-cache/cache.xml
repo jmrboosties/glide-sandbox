@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-aa754c3341f8f48220601cb95811233485c60fe5.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/classes-6d9dea5b9c5eb8c94912ac576c236bce08f32142.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/9e025bc5b84968e7d6ac765e660a70b3e5a87432/universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-21b679edf0cd4912db5fad1bb54e9052d91a494d.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/classes-4da7a9a497da7501ef8ac8a53c9933b9faad693b.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/classes-865dcf9f5e6bf6aa2cfe9d57f12585efd518f330.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/android-sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-19707dd9aa89ea5d9b0b642c3e43eafbd5b53f13.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/classes-f12639180531481ec890e082a7eb8c3a868ae756.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/classes-de97b720a472185b74cb0604f0fc1a8a23bbc6f5.jar" />
+    </item>
+    <item
+        jar="/Users/Jesse/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/Jesse/Documents/projects/Sandbox/app/build/intermediates/pre-dexed/debug/glide-3.6.0-c0f90789b61f4db72ea25c3eb5c4d5a07d17b94c.jar" />
+    </item>
+
+</items>

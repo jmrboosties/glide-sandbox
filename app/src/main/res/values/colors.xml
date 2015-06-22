@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_body_color">#00B4B3</color> <!-- TODO was 2E2E2E -->
+    <color name="drawer_background_color">#2E2E2E</color>
+    <color name="bubble_button_pressed_color">#00736E</color>
+    <color name="status_bar_dark_bit_green">#00736E</color>
+    <color name="grey">#676767</color>
+    <color name="big_green_ui_element_shader">#0fa59b</color>
+    <color name="bit_teal">#00B4B3</color>
+    <color name="red">#d00000</color>
+    <color name="start_gradient">#01000000</color>
+    <color name="center_gradient">#4f000000</color>
+    <color name="end_gradient">#77000000</color>
+    <color name="cloud_popup_background">#9a000000</color>
+    <color name="text_shadow_color">#4c4c4c</color>
+    <color name="bit_button_pressed">#009D9D</color>
+    <color name="breakline_color">#44b4b4b4</color>
+    <color name="cloud_popup_background_darken_color">#6a000000</color>
+    <color name="grey_text_color">#676767</color>
+    <color name="bit_teal_ripple">#8800B4B3</color>
+    <color name="close_button_background_default">#664a4a4a</color> <!--TODO get this color right in conjunction with the bitmap X-->
+    <color name="close_button_background_pressed">#aa4a4a4a</color>
+    <color name="activity_background_color">#ECECEC</color>
+    <color name="transparent_clickable_highlight_color">#44b1b1b1</color>
+    <color name="listitem_border_color">#cacaca</color>
+    <color name="activity_feed_timestamp_color">#67676767</color>
+    <color name="unselected_tab_text_color">#aaffffff</color>
+    <color name="comment_section_color">#dadada</color>
+    <color name="selected_tab_footer_color">#005D5D</color>
+    <color name="ripple_color_for_teal_element">#44ffffff</color>
+    <color name="settings_item_border">#eaeaea</color>
+    <color name="light_teal_text_color">#cefbff</color>
+    <color name="login_button_color">#5547e2dc</color> <!-- was #80ffffff-->
+    <color name="login_button_pressed_color">#4447e2dc</color> <!-- was #4dffffff-->
+    <color name="login_flow_hint_color">#99ffffff</color>
+    <color name="more_text_color">#959595</color>
+    <color name="checkbutton_checkbox_background">#007574</color>
+</resources>

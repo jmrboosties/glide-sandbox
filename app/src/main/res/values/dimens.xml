@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="big_image">260dp</dimen>
+    <dimen name="drawer_peek_width">72dp</dimen>
+    <dimen name="list_section_width">314dp</dimen>
+    <dimen name="drawer_width">280dp</dimen>
+    <dimen name="toolbar_elevation">2dp</dimen>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_avatar_size">40dp</dimen>
+</resources>
